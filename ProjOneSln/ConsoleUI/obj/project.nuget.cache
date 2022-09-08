@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9G8Zy91eTq+QuwPwdmQ1B5iC6XptAZOIybX2RV4kEYEaHBuUiZF6bOT7QxqBANhFYzlDUXpavv2L3AsWz0Z23w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DincF\\Documents\\GitHub\\.Net-Framework-Training\\ProjOneSln\\ConsoleUI\\ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DincF\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\DincF\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\DincF\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
