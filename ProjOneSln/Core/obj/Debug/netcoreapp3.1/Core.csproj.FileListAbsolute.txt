@@ -7,3 +7,4 @@ C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\Core\obj\Debu
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\Core\obj\Debug\netcoreapp3.1\Core.dll
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache

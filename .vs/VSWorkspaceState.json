@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ProjOneSln",
+    "\\ProjOneSln\\ConsoleUI"
   ],
+  "SelectedNode": "\\ProjOneSln\\DataAccess",
   "PreviewInSolutionExplorer": false
 }
