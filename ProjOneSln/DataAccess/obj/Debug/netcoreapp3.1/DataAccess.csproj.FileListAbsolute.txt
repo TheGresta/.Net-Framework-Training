@@ -11,3 +11,5 @@ C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\DataAccess\ob
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb

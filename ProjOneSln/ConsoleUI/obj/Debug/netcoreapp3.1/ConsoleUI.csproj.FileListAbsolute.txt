@@ -59,3 +59,5 @@ C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\ConsoleUI\bin
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb

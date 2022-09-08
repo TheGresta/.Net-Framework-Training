@@ -13,3 +13,5 @@ C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\Business\obj\
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\Business\obj\Debug\netcoreapp3.1\Business.dll
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\Business\bin\Debug\netcoreapp3.1\Core.pdb
