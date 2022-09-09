@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\ProjOneSln",
-    "\\ProjOneSln\\ConsoleUI"
+    "\\ProjOneSln\\ConsoleUI",
+    "\\ProjOneSln\\WebAPI",
+    "\\ProjOneSln\\WebAPI\\Controllers"
   ],
-  "SelectedNode": "\\ProjOneSln\\ConsoleUI\\Program.cs",
+  "SelectedNode": "\\ProjOneSln\\WebAPI\\Controllers\\ProductsController.cs",
   "PreviewInSolutionExplorer": false
 }
