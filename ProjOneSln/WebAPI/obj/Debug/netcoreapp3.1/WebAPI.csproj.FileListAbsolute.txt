@@ -72,3 +72,7 @@ C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\WebAPI\bin\De
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
