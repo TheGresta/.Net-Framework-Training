@@ -71,3 +71,7 @@ C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\ConsoleUI\bin
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\ConsoleUI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\ConsoleUI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
