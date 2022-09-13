@@ -15,6 +15,7 @@ using FluentValidation;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
 
 namespace Business.Concrete
 {
@@ -58,9 +59,8 @@ namespace Business.Concrete
             return new SuccessResult(Messages.ProductAdded);
         }
 
-        [CacheAspect]
         public IDataResult<List<Product>> GetAll()
-        {
+        {            
             return new SuccessDataResult<List<Product>>(_productDal.GetAll(), Messages.ProductsListed);
         }
 
@@ -107,6 +107,11 @@ namespace Business.Concrete
             if (result > 15)
                 return new ErrorResult(Messages.CategoryCountOutOfLimit);
             return new SuccessResult();
+        }
+
+        public IResult AddTransactionalTest(Product product)
+        {
+            throw new NotImplementedException();
         }
     }
 }

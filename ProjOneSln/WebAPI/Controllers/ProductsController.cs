@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace WebAPI.Controllers
@@ -25,10 +26,11 @@ namespace WebAPI.Controllers
         [HttpGet]
         public IActionResult Get()
         {
+            Thread.Sleep(2000);
             var result = _productService.GetAll();
             if (result.Success)
-                return Ok(result.Data);
-            return BadRequest(result.Message);
+                return Ok(result);
+            return BadRequest(result);
         }
 
         [HttpGet("{id}")]
@@ -44,6 +46,15 @@ namespace WebAPI.Controllers
         public IActionResult Post([FromBody] Product product)
         {
             var result = _productService.Add(product);
+            if (result.Success)
+                return Ok(result);
+            return BadRequest(result);
+        }
+
+        [HttpGet("getbycategory")]
+        public IActionResult GetByCategory(int categoryId)
+        {
+            var result = _productService.GetAllByCategoryId(categoryId);
             if (result.Success)
                 return Ok(result);
             return BadRequest(result);

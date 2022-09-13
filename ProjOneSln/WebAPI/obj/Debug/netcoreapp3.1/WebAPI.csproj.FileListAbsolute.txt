@@ -13,8 +13,6 @@ C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\WebAPI\obj\De
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
-C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
-C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 C:\Users\DincF\Documents\GitHub\.Net-Framework-Training\ProjOneSln\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
