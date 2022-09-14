@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ProjOneSln"
+    "\\ProjOneSln",
+    "\\ProjOneSln\\WebAPI"
   ],
-  "SelectedNode": "\\ProjOneSln\\ProjOneSln.sln",
+  "SelectedNode": "\\ProjOneSln\\WebAPI\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }

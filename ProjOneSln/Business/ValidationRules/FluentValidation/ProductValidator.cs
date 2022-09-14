@@ -13,7 +13,8 @@ namespace Business.ValidationRules.FluentValidation
             RuleFor(p => p.ProductName)
                 .NotEmpty()
                 .MinimumLength(2)
-                .Must(StartWithA);
+                .Must(StartWithA)
+                .WithMessage("Ürünler A harfi ile başlamalı");
 
             RuleFor(p => p.UnitPrice)
                 .NotEmpty()

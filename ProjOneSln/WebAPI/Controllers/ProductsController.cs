@@ -1,14 +1,7 @@
 ﻿using Business.Abstract;
-using Business.Concrete;
-using DataAccess.Concrete.EntityFramework;
 using Entities.Concrete;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading;
-using System.Threading.Tasks;
 
 namespace WebAPI.Controllers
 {
@@ -42,8 +35,8 @@ namespace WebAPI.Controllers
             return BadRequest(result);
         }
 
-        [HttpPost]
-        public IActionResult Post([FromBody] Product product)
+        [HttpPost("add")]
+        public IActionResult Add(Product product)
         {
             var result = _productService.Add(product);
             if (result.Success)
